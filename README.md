@@ -9,7 +9,7 @@ A simple device will sound an alarm if a window is open for more than 5 minutes.
 The open window is detected with a reed switch.
 The reed switch is toggled by a magnet mounted to the window.
 
-Three steps to get started:
+steps to get started:
 1. program an ATtiny85 in the Arduino IDE with the code
 2. build the simple electronic around it (see schematic) and plug in the ATtiny85 to the socket.
 3. Optional: build a housing i. e. with a 3D printer (see openscad files)
